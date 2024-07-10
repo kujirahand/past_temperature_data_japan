@@ -1,2 +1,11 @@
-# past_temperature_data_japan
-Past temperature data in Japan
+# 気象庁が配付している過去の気温データ
+
+以下よりダウンロードしたものをそのまま配付しています。
+https://www.data.jma.go.jp/risk/obsdl/index.php
+
+## 抽出条件
+
+- (1) [地点] 東京 → 東京を選択 / 神奈川 → 横浜を選択 / 静岡 → 浜松を選択
+- (2) [項目] 日別値 → 気温 → 「日平均気温」と「日最高気温」を選択
+- (3) [期間] 連続した期間 → 1974年1月1日から10年から11年分ごと
+
